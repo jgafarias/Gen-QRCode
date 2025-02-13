@@ -1,6 +1,6 @@
 # Gerador de QRCode
 
-Este projeto é uma aplicação simples de geração de QRCode usando Python e as bibliotecas Tkinter, qrcode e Pillow.
+Este projeto é uma aplicação simples de geração de QRCode usando Python e as bibliotecas Tkinter, qrcode.
 
 ## Requisitos
 
