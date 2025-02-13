@@ -30,10 +30,9 @@ python gerador_qrcode.py
 
 4. Clique no botão "Gerar" para criar o QRCode.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Veja o arquivo LICENSE para mais detalhes.
-
+## Requisitos
+- Python 3.x
+- 
 ## Contato
 
 Para mais informações, entre em contato com o autor:
