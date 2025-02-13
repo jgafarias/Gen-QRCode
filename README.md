@@ -13,7 +13,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 Você pode instalar `qrcode` usando pip:
 
 ```bash
-pip install qrcode[pil]
+pip install qrcode
 ```
 
 ## Uso
