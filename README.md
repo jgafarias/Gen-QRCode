@@ -18,17 +18,17 @@ pip install qrcode
 
 ## Uso
 
-- 1. Clone este repositório ou faça o download dos arquivos.
+1. Clone este repositório ou faça o download dos arquivos.
 
-- 2. Execute o script gerador_qrcode.py (ou o nome que você deu ao arquivo).
+2. Execute o script gerador_qrcode.py (ou o nome que você deu ao arquivo).
 
 ```bash
 python gerador_qrcode.py
 ```
 
-- 3. A interface gráfica será aberta. Preencha o campo "Título do QRCode" e o campo "Link do site".
+3. A interface gráfica será aberta. Preencha o campo "Título do QRCode" e o campo "Link do site".
 
-- 4. Clique no botão "Gerar" para criar o QRCode.
+4. Clique no botão "Gerar" para criar o QRCode.
 
 ## Licença
 
