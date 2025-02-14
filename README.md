@@ -51,7 +51,7 @@ Este é um aplicativo simples para gerar e salvar códigos QR a partir de links.
 
 ## Requisitos
 - Python 3.x
-- 
+
 ## Contato
 
 Para mais informações, entre em contato com o autor:
