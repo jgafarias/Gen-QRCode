@@ -11,6 +11,15 @@ Este é um aplicativo simples para gerar e salvar códigos QR a partir de links.
 - **Interface Estilizada**: Utiliza a biblioteca `ttkbootstrap` para uma interface gráfica mais elegante.
 - **Centralização da Janela**: A janela do aplicativo é centralizada na tela do usuário.
 
+## Exemplo:
+<div align="center">
+    
+![image](https://github.com/user-attachments/assets/1f10dfe5-2a1c-4158-839a-6c699124615a)
+
+</div>
+
+
+
 ## Bibliotecas Necessárias
 
 - `tkinter`
